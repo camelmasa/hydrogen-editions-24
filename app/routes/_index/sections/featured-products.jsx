@@ -108,7 +108,7 @@ export default function FeaturedProducts() {
             </Column>
             <Column style={{ height: 120 }}>
               <AddToCartButton color='accent'>
-                Add to cart
+                カートに追加
               </AddToCartButton>
             </Column>
           </SaleCard>
